@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'go-flowmeter-docs',
   tagline: 'A documentation for go-flowmeter',
-  url: 'https://megalotron.github.io/go-flowmeter-docs/',
+  url: 'https://megalotron.github.io',
   baseUrl: '/go-flowmeter-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
